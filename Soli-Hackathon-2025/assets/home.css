@@ -64,11 +64,12 @@ header {
 }
 
 .logo img {
-    height: 50px;
-    margin-right: 15px;
+    height: 60px;
+    margin-right: -5px;
     /* Increased spacing between logo and text */
     object-fit: contain;
     /* Ensures the logo scales properly */
+    /* margin-left: -12px; */
 }
 
 /* Logo text container */
@@ -183,7 +184,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/assets/images/about.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('./images/about.jpg') center/cover no-repeat;
     height: 80vh;
     display: flex;
     align-items: center;
