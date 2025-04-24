@@ -163,7 +163,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/api/placeholder/1200/600') center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/about.jpg') center/cover no-repeat;
     height: 80vh;
     display: flex;
     align-items: center;
@@ -413,8 +413,11 @@ nav ul li a:hover {
 }
 
 .profile-image {
-    height: 200px;
-    background: url('/api/placeholder/400/200') center/cover;
+    width: 200px;
+    height: 200px; 
+    margin: 0 auto; 
+    display: block; 
+    border-radius: 50%;
 }
 
 .profile-info {
