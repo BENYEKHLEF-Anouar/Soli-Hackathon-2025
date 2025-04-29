@@ -1,6 +1,6 @@
 # Soli-Hackathon 2025 🚀
 
-Welcome to the collaborative repository for our **Soli-Hackathon 2025** project!  
+Welcome to the collaborative repository for our **Soli-Hackathon 2025** project for **It-Wave 2025** event!  
 This repo is the central hub where our team will build, collaborate, and innovate together.
 
 ---
@@ -13,10 +13,9 @@ This project is part of the Soli-Hackathon 2025. Each team member is responsible
 
 ## 👥 Team
 
-- [Your Name] - Project Lead
-- [Teammate 1]
-- [Teammate 2]
-- [Teammate 3]
+- [Anouar Benyekhlef] - Project Lead
+- [Mohamed Elmaayouf]
+- [Zaid Elkhoubzi]
   
 ---
 
