@@ -14,7 +14,7 @@ This project is part of the Soli-Hackathon 2025. Each team member is responsible
 ## Team
 
 - [Anouar Benyekhlef] - Project Lead
-- [Mohamed El Maayouf]
+- [Mohamed El Meayouf]
 - [Zaid El Khboubzi]
   
 ---
