@@ -1,0 +1,20 @@
+{
+    "niveaux": [
+        "Collège",
+        "Lycée",
+        "Première Année Supérieur",
+        "Licence",
+        "Master",
+        "Doctorat"
+    ],
+    "sujets": [
+        "Mathématiques",
+        "Physique",
+        "Chimie",
+        "Biologie",
+        "Informatique",
+        "Langues",
+        "Orientation",
+        "Entrepreneuriat"
+    ]
+}
